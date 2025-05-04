@@ -1,0 +1,7 @@
+a, b, c = map(float, input().split())
+tri = ("TRIANGULO: {:.3f}".format(a * c / 2))
+cir = ("CIRCULO: {:.3f}".format(3.14159 * c ** 2))
+trap = ("TRAPEZIO: {:.3f}".format((a + b) * c / 2))
+qua = ("QUADRADO: {:.3f}".format(b ** 2))
+ret= ("RETANGULO: {:.3f}".format(a * b))
+print("{}\n{}\n{}\n{}\n{}".format(tri, cir, trap, qua, ret))    
