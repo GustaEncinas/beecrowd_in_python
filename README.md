@@ -2,6 +2,10 @@
 
 This repository contains Python solutions to problems from the [Beecrowd](https://www.beecrowd.com.br/) competitive programming platform.
 
+## 👤 Author - Gustavo Encinas
+
+**Username on Beecrowd**: [dev.gustavo.encinas](https://judge.beecrowd.com/pt/profile/1133461)
+
 ## 🎯 Purpose
 
 The aim is to provide well-structured and understandable solutions that follow **competitive programming acceptance criteria**, using **only native Python libraries**.
